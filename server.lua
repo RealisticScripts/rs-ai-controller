@@ -1,4 +1,4 @@
-local currentVersion = '1.0.0'
+local currentVersion = 'v1.0.0'
 
 local function fetchLatestVersion(callback)
     PerformHttpRequest('https://api.github.com/repos/RealisticScripts/rs-ai-controller/releases/latest', function(statusCode, response)
@@ -21,7 +21,7 @@ local function checkForUpdates()
             print('[rs-ai-controller] A new version of the script is available!')
             print(('[rs-ai-controller] Current version: %s'):format(currentVersion))
             print(('[rs-ai-controller] Latest version: %s'):format(latestVersion))
-            print('[rs-ai-controller] Please update the script from: https://github.com/RealisticScripts/REPO-NAME')
+            print('[rs-ai-controller] Please update the script from: https://github.com/RealisticScripts/rs-ai-controller')
         else
             print('[rs-ai-controller] Your script is up to date!')
         end

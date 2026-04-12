@@ -5,7 +5,7 @@ lua54 'yes'
 author 'Realistic Scripts'
 name 'RS AI Controller'
 description 'AI controller that adjusts or removes ambient traffic and pedestrians in FiveM.'
-version '1.0.0'
+version 'v1.0.0'
 repository 'https://github.com/RealisticScripts/rs-ai-controller'
 license 'MIT'
 
