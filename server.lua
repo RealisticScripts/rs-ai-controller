@@ -1,4 +1,4 @@
-llocal currentVersion = 'v1.0.0'
+local currentVersion = 'v1.0.0'
 local repoName = 'rs-ai-controller' -- change per script
 
 local function fetchLatestVersion(callback)
