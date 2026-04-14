@@ -8,21 +8,7 @@ RS AI Controller is a lightweight FiveM resource for controlling **ambient traff
 - `Debug` provides true in-game debug visibility with a lightweight on-screen overlay, plus startup console output.
 - Server-side GitHub release version check.
 
-## Scope
-This release is intentionally limited to the defined feature set only.
 
-Included:
-- Traffic density control
-- Ped density control
-- Debug mode
-
-Not included:
-- Cleanup loops
-- Vehicle or ped deletion passes
-- Radius checks
-- Entity control requests
-- Extra config switches
-- Undefined features
 
 ## Installation
 1. Place the `rs-ai-controller` folder inside your server's `resources` directory.
