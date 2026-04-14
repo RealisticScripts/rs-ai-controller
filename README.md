@@ -54,4 +54,5 @@ The resource includes a server-side GitHub release check for:
 - `LICENSE`
 
 ## License
-Released under the MIT License. See `LICENSE` for full text.
+
+MIT License © 2026 Realistic Scripts
